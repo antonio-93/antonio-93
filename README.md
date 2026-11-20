@@ -26,13 +26,6 @@ I've contributed to QA initiatives involving:
 - SaaS employee engagement platforms and QA leadership
 - AI agent reliability and security-focused testing
 
-## Featured Projects
-
-**Playwright & TypeScript — QA Automation Portfolio**
-
-Automated testing of a publicly available demo application, accompanied by test documentation and a risk-based testing approach.
-
-*Repository coming soon.*
 
 ## Connect
 
