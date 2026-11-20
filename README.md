@@ -26,6 +26,16 @@ I've contributed to QA initiatives involving:
 - SaaS employee engagement platforms and QA leadership
 - AI agent reliability and security-focused testing
 
+ ## Featured Projects
+
+### [Playwright & TypeScript — SauceDemo Authentication Tests](https://github.com/antonio-93/playwright-typescript-qa-portfolio)
+
+Browser test automation project covering four authentication scenarios using Playwright and TypeScript.
+
+- Positive and negative login testing
+- Logout validation
+- Automated assertions and HTML reporting
+- **Execution result: 4/4 tests passed locally**
 
 ## Connect
 
